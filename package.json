@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.ts",
+  "engines": {
+    "node": "15.10.0",
+    "npm": "7.6.0"
+  },
   "scripts": {
     "node": "node server.ts",
     "server": "nodemon server.ts",
